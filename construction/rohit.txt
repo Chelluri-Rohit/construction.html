@@ -1,0 +1,161 @@
+﻿<!DCTYPE html>
+<html>
+<head>
+<title>construction website</title>
+ <div class="regform"><h1>Registration Form</h1></div>
+        <div class="main">
+            <form>
+                <div id="name">
+                    <h2 class="name">Name</h2>
+           <input class="name" type="text" name="name"><br>
+                  
+             </div>
+                <h2 class="name">Email</h2>
+                <input class="email" type="text" name="Email">
+                <h2 class="name">password</h2>
+                <input class="password" type="text" name="password">
+                 <h2 class="name">repeat password</h2>
+                <input class="repeat password" type="text" name="repeat password">  
+                <h2 class="name"> phone</h2>
+                <input class="number" type="text" name="phone">
+                <h2 class="name">Adhaar</h2>
+                <input class="Adhaar" type="text" name="Adhaar number">
+                <h2 class="name">Pan</h2>
+                <input class="Pan" type="text" name="Pan number">
+                <h2 class="name">Address</h2>
+                <input class="Address" type="text" name="Address">
+                <input type="checkbox" id="add" name= "By creating an account you agree">
+  <label for="add">  By creating an account you agree</label><br>
+<button type="submit" class="registerbtn">Register</button>
+<div class="container signin">
+    <p>Already have an account? <a href="#">Sign in</a>.</p>
+</div>
+</body>
+</html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: blue;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+  background-color:yellow;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: green;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: purple;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit button */
+.registerbtn {
+  background-color: orange;
+  color: sky blue;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+.registerbtn:hover {
+  opacity: 1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: orange;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="main">
+<h2>Javascript Login Form Validation</h2>
+<form id="form_id" method="post" name="myform">
+<label>User Name :</label>
+<input type="text" name="username" id="username"/><br>
+<label>Password :</label>
+<input type="password" name="password" id="password"/><br>
+<input type="button" value="login" id="submit" onclick="validate()"/><br>
+<button>forget username</button><br>
+<button>forget password</button><br>
+<body>
+<body style="background-color:peacock colour;">
+<div class="menu-bar">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="contact us">contact us</a></li>
+            <li><a href="about us">about us</a></li>
+<body style="background-color:peacock colour;"> 
+<button><h>residential</h></button><br>
+<button><h1> non residential</h1></button><br>
+<button><h2>places</h2></button><br>
+<ul>
+ <button> <li>city</li></button><br>
+ <button> <li> village</li></button><br>
+  <button><li>town</li></button><br
+<ul>
+<button><h3>site s.ads</h3></button><br>
+<button><h4>building area s.f.t</h4></button><br>
+<button><h5>flouring list<h5/></button>
+<ul>
+ <button> <li>marable</li></button><br>
+ <button> <li>granite</li></button><br>
+  <button><li>tiles</li></button><br>
+</ul>   
+<button><h6> floors</h6></button>
+<ul>
+<button> <li>ground floor</li></button><br>
+ <button> <li>first floor</li></button><br>
+  <button><li>second floor</li>
+</ul>
+<button><h7> parkings</h7></button>
+<ul>
+ <button> <li>car</li></button><br>
+ <button> <li>bike</li></button><br>
+  <button><li>cycle</li></button><br>
+</ul>
+<button><h8> water provision</h8></button><br>
+<button><h9>electric<h9></button>
+<ul>
+ <button> <li>central ac</li></button><br>
+ <button> <li>ac connection</li></button><br>
+ </ul>
+<button>submit</button><br>
+<img src="house.jpg" alt="house" width="500" height="300">
+<img src="house1.jpg" alt="house1" width="500" height="350">
+<img src="house2.jpg" alt="house2" width="500" height="400">
+<img src="house3.jpg" alt="house3" width="500" height="450">
+<img src="construction.jpg" alt="construction" width="500" height="500">
+</body>
+</html>
